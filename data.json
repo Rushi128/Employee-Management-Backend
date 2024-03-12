@@ -1,0 +1,9 @@
+{
+  "name": "Company XYZ",
+  "employees": [
+    {
+      "name": "Rushi",
+      "position": "Intern"
+    }
+  ]
+}
